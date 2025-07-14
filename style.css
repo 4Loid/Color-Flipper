@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    font-family: serif;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#change{
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  border: solid;
+  background-color: salmon;
+  border-radius: 15px;
+  padding: 10px;
+}
+#bodybg{
+  padding: 200px;
+  margin: auto;
+}
